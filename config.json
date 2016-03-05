@@ -1,0 +1,18 @@
+{
+  "assetsPath": "source",
+  "distPath": "source",
+  "scss": {
+    "folder": "stylesheets",
+    "outputFolder": "stylesheets",
+    "autoprefixer": {
+      "options": {
+        "browsers": [ "last 2 versions" ],
+        "cascade": false
+      }
+    }
+  },
+  "coffee": {
+    "folder": "javascripts",
+    "outputFolder": "javascripts"
+  }
+}

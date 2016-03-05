@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "jquery": "^2.2.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-coffeeify": "^0.1.8",
+    "gulp-notify": "^2.2.0",
+    "gulp-sass": "^2.2.0",
+    "require-dir": "^0.3.0"
+  }
+}
